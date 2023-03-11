@@ -1,0 +1,10 @@
+﻿INSERT INTO Company VALUES ('Dedaş');
+INSERT INTO Company VALUES ('Depsaş');
+INSERT INTO Company VALUES ('Eksun Gıda');
+INSERT INTO Company VALUES ('4Tek İletişim');
+INSERT INTO Company VALUES ('Eksim Yatırım');
+INSERT INTO Company VALUES ('İltek Enerji');
+INSERT INTO Company VALUES ('Batı Hattı Doğalgaz');
+INSERT INTO Company VALUES ('İncesu Gayrimenkul');
+INSERT INTO Company VALUES ('Altınapa');
+INSERT INTO Company VALUES ('Kök Elektrik');

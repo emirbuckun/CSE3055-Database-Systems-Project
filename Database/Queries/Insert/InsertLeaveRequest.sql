@@ -1,0 +1,5 @@
+﻿INSERT INTO LeaveRequest VALUES (1, '2023-01-02 00:00:00', '2023-01-09 00:00:00', 'Hastalık');
+INSERT INTO LeaveRequest VALUES (6, '2023-01-03 00:00:00', '2023-01-10 00:00:00', 'Babalık İzni');
+INSERT INTO LeaveRequest VALUES (11, '2023-01-04 00:00:00', '2023-01-11 00:00:00', 'Cenaze');
+INSERT INTO LeaveRequest VALUES (16, '2023-01-05 00:00:00', '2023-01-12 00:00:00', 'Doğum');
+INSERT INTO LeaveRequest VALUES (21, '2023-01-06 00:00:00', '2023-01-13 00:00:00', 'Süt İzni');
