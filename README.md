@@ -1,6 +1,6 @@
 # CSE3055 Database Systems Project
 
-Term project for CSE3015 Digital Logic Design Course.
+Term project for CSE3055 Database Systems Course.
 
 Period: 2022 Fall
 
